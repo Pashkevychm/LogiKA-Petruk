@@ -26,7 +26,7 @@ class MainWindow(CTk):
 
         self.create_ui()
 
-        self.username = "⏺"
+        self.username = "PUPOK"
         self.sock = None
         self.connect()
 
